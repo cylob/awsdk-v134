@@ -1,0 +1,1 @@
+regsvr32 AwSdk134.dll
