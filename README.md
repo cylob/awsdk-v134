@@ -75,4 +75,6 @@ You should read and agree to the terms in LICENSE.TXT before using the SDK, even
 
 This repository is maintained by the community as a historical archive and modding reference. It is not affiliated with or endorsed by ActiveWorlds Inc.
 
+> “Virtual worlds may change, but their code deserves to be remembered.”
+
 If you have additional SDK versions, bot source code, or documentation to contribute, consider submitting a pull request or opening an issue with your version a subdirectory named after the specific version.
